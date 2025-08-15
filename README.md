@@ -12,8 +12,8 @@ A web-based application for booking bus tickets online, allowing users to search
 ## Technologies
 Java (Spring Boot), HTML, CSS, JavaScript, MySQL
 
-## Skills Demonstrated
-- Full-stack web development
+
+- Full-stack 
 - Database design and CRUD operations
 - Authentication and session handling
 - Working with Spring Boot framework
