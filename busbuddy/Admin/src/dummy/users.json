@@ -1,0 +1,112 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main Street",
+    "city": "Anytown",
+    "state": "California",
+    "zipCode": "90210",
+    "phone": "555-123-4567",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "address": "456 Elm Avenue",
+    "city": "Metropolis",
+    "state": "New York",
+    "zipCode": "10001",
+    "phone": "555-987-6543",
+    "gender": "Female"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@example.com",
+    "address": "789 Oak Street",
+    "city": "Springfield",
+    "state": "Illinois",
+    "zipCode": "62701",
+    "phone": "555-555-5555",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "emily.brown@example.com",
+    "address": "101 Pine Lane",
+    "city": "Mountainville",
+    "state": "Colorado",
+    "zipCode": "80302",
+    "phone": "555-111-2222",
+    "gender": "Female"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Martinez",
+    "email": "david.martinez@example.com",
+    "address": "222 Lakeview Lane",
+    "city": "Serenity Springs",
+    "state": "Wisconsin",
+    "zipCode": "53202",
+    "phone": "555-333-4444",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Taylor",
+    "email": "sarah.taylor@example.com",
+    "address": "333 Maple Avenue",
+    "city": "Oakland",
+    "state": "California",
+    "zipCode": "94601",
+    "phone": "555-777-8888",
+    "gender": "Female"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Wilson",
+    "email": "christopher.wilson@example.com",
+    "address": "444 Elm Street",
+    "city": "Portland",
+    "state": "Oregon",
+    "zipCode": "97201",
+    "phone": "555-222-3333",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Garcia",
+    "email": "amanda.garcia@example.com",
+    "address": "555 Oak Avenue",
+    "city": "Sunnyvale",
+    "state": "California",
+    "zipCode": "94086",
+    "phone": "555-444-5555",
+    "gender": "Female"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Rodriguez",
+    "email": "james.rodriguez@example.com",
+    "address": "666 Pine Street",
+    "city": "Houston",
+    "state": "Texas",
+    "zipCode": "77002",
+    "phone": "555-666-7777",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Lopez",
+    "email": "jennifer.lopez@example.com",
+    "address": "777 Maple Avenue",
+    "city": "Miami",
+    "state": "Florida",
+    "zipCode": "33101",
+    "phone": "555-999-0000",
+    "gender": "Female"
+  }
+]
